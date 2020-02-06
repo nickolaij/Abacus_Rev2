@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name AbacusPCB)(type KiCad)(uri ${KIPRJMOD}/AbacusPCB.pretty)(options "")(descr ""))
+)
