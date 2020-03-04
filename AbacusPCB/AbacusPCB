@@ -1,0 +1,30 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>C:\Users\nijon\Documents\Git\Abacus Rev2\AbacusPCB\AbacusPCB.sch</h1>
+    <p>10/02/2020 6:48:00 AM</p>
+    <p>Eeschema (5.1.2)-2</p>
+    <p><b>Component Count:</b>139</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17</td><td>17</td><td>0.1uF</td><td>Device:C</td><td>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45</td><td>45</td><td>D</td><td>Device:D</td><td>AbacusPCB:Diode</td><td>Diode</td><td></td></tr>
+    <tr><td>H1, H2, H3, H4, H5, H6, H7, H8, H9, H10, H11, H12, H13</td><td>13</td><td>MH</td><td>Mechanical:MountingHole</td><td>AbacusPCB:M3 Hole</td><td>Mounting Hole without connection</td><td></td></tr>
+    <tr><td>K1, K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K26, K27, K28, K29, K30, K31, K32, K33, K34, K35, K36, K38, K39, K42, K43, K44, K45</td><td>38</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>MX_Alps_Hybrid:MX-1U-NoLED</td><td></td><td></td></tr>
+    <tr><td>K12, K25</td><td>2</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>MX_Alps_Hybrid:MX-1.75U-NoLED</td><td></td><td></td></tr>
+    <tr><td>K13, K37</td><td>2</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>MX_Alps_Hybrid:MX-1.25U-NoLED</td><td></td><td></td></tr>
+    <tr><td>K24</td><td>1</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>MX_Alps_Hybrid:MX-1.5U-NoLED</td><td></td><td></td></tr>
+    <tr><td>K40, K41</td><td>2</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>MX_Alps_Hybrid:MX-2.75U-ReversedStabilizers-NoLED</td><td></td><td></td></tr>
+    <tr><td>SW1</td><td>1</td><td>Rotary_Encoder_Switch</td><td>Device:Rotary_Encoder_Switch</td><td>AbacusPCB:Encoder</td><td>Rotary encoder, dual channel, incremental quadrate outputs, with switch</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>Elite-C_Pro-Micro</td><td>AbacusPCB:Elite-C_Pro-Micro</td><td>AbacusPCB:Elite-C Pro-Micro</td><td></td><td></td></tr>
+    <tr><td>W1, W2, W3, W4, W5, W6, W7, W8, W9, W10, W11, W12, W13, W14, W15, W16, W17</td><td>17</td><td>WS2812B</td><td>LED:WS2812B</td><td>AbacusPCB:WS2812_Hand_Solder</td><td>RGB LED with integrated controller</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
