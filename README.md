@@ -1,5 +1,4 @@
-# Abacus 
-#### Mechanical Keyboard
+# Abacus Mechanical Keyboard
 
 ![abacus](https://i.imgur.com/IFtuWaK.jpg)
 
