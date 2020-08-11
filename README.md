@@ -1,12 +1,10 @@
 # Abacus Mechanical Keyboard
 
-<img src="https://i.imgur.com/IFtuWaK.jpg"
-     alt="Abacus Back"
-     style="float: centre; margin-right: 10px;"
-     width="400"/>< img src="https://i.imgur.com/2Jpx0Mu.jpg"
-     alt="Abacus Front"
-     style="float: centre; margin-right: 10px;"
-     width="400"/>
+<p float="left">
+     <img src="https://i.imgur.com/IFtuWaK.jpg" width="400" />
+     <img src="https://i.imgur.com/2Jpx0Mu.jpg" width="400" />
+</p>
+
      
      
 ![abacusBack](https://i.imgur.com/IFtuWaK.jpg)  |  ![abacusFront](https://i.imgur.com/2Jpx0Mu.jpg)
