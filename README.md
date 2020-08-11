@@ -1,8 +1,8 @@
 # Abacus Mechanical Keyboard
 
-<p float="left">
-     <img src="https://i.imgur.com/IFtuWaK.jpg"/>
-     <img src="https://i.imgur.com/2Jpx0Mu.jpg"/>
+<p float="middle">
+     <img src="https://i.imgur.com/IFtuWaK.jpg" width="500" />
+     <img src="https://i.imgur.com/2Jpx0Mu.jpg" width="500" />
 </p>
 
 A first attempt at a PCB design for a mechanical keyboard. Includes encoder and RGB.
