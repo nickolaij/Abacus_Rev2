@@ -3,10 +3,10 @@
 <img src= "https://i.imgur.com/IFtuWaK.jpg"
      alt = "Abacus Back"
      style = "float: left; margin-right: 10px;"
-     width = "200"/> < img src= "https://i.imgur.com/2Jpx0Mu.jpg"
+     width = "400"/> < img src= "https://i.imgur.com/2Jpx0Mu.jpg"
      alt = "Abacus Front"
      style = "float: left; margin-right: 10px;"
-     width = "200
+     width = "400"/>
      
      
 ![abacusBack](https://i.imgur.com/IFtuWaK.jpg)  |  ![abacusFront](https://i.imgur.com/2Jpx0Mu.jpg)
